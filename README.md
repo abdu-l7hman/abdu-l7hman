@@ -1,4 +1,4 @@
-#hi there
+# Hi there
 - 👋 Hi, I’m abdulhhman mamdoh
 - 👀 I’m interested in developing my programming skills
 - 🌱 I’m currently learning java and python
