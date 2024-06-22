@@ -2,8 +2,7 @@
 - 👋 Hi, I’m abdulhhman mamdoh
 - 👀 I’m interested in developing my programming skills
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on developing new games
-- 📫 How to reach me 
+- 📫 How to reach me  	[title](https://www.linkedin.com/in/abdulrahman-mamdouh-solaiman-shekh-makanik-2342372ba/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
