@@ -1,4 +1,5 @@
-#- 👋 Hi, I’m abdulhhman mamdoh
+#hi there
+- 👋 Hi, I’m abdulhhman mamdoh
 - 👀 I’m interested in developing my programming skills
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on developing new games
