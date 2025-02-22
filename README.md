@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m abdulhhman mamdoh<br>    👀 I’m interested in developing my programming skills<br>    🌱 I’m currently learning java and python<br>    📫 How to reach me linkedin
+<br>    👋 Hi, I’m Abdulhhman Mamdoh<br>    👀 I’m interested in developing my programming skills<br>    🌱 I’m currently learning java and python<br>    📫 How to reach me linkedin
 
 
 # 💻 Tech Stack:
